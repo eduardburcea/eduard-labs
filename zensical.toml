@@ -62,7 +62,9 @@ nav = [
   { "Networking" = [
       { "Home Lab Overview" = "networking/home-lab-overview.md" },
       "networking/mikrotik-config-p1.md"
-  ]}
+  ]},
+  
+  { "Blog" = ["blog/index.md"] },
 ]
 
 # With the "extra_css" option you can add your own CSS styling to customize
@@ -319,3 +321,5 @@ logo = "lucide/shield"
 #[[project.extra.social]]
 #icon = "fontawesome/brands/github"
 #link = "https://github.com/user/repo"
+
+[project.plugins.blog]
