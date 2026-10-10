@@ -49,6 +49,7 @@ nav = [
   { "About" = "about.md" },
   { "Contact" = "contact.md" },
   { "Resume" = "resume.md" },
+  { "Example" = "example" }
 
   { "Cybersecurity" = [
       { "SOC Lab Overview" = "cybersecurity/soc-lab-overview.md" }
